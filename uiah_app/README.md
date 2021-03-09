@@ -1,2 +1,1 @@
-Add a valid API key for the app to work properly
-App made using create-react-app
+Add a valid API key for the app to work properly, App made using create-react-app
