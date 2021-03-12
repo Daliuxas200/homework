@@ -5,7 +5,7 @@ import { ReactComponent as SearchIcon } from '../icons/search.svg';
 let debounce = require('lodash.debounce');
 
 // ADD VALID KEY FOR API
-let key = '<<add_your_key>>'
+let key = '16056630d65dadfdb0c530dc8ec6e61a'
 
 export default class App extends React.Component{
     constructor(props){
